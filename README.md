@@ -14,14 +14,23 @@ Analista de Sistemas pós-graduando em Arquitetura de Software, com foco em dese
 
 ---
 
-### 📊 Estatísticas
+### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicollascarreira&show_icons=true&theme=tokyonight&hide_border=true" alt="Nicollas's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollascarreira&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=nicollascarreira&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
 
 ### 📫 Como me encontrar
 
