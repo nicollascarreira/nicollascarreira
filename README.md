@@ -26,12 +26,6 @@ Analista de Sistemas pós-graduando em Arquitetura de Software, com foco em dese
 
 ---
 
-### 📊 Estatísticas
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=nicollascarreira&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
-</p>
-
 ### 📫 Como me encontrar
 
 - **LinkedIn:** [linkedin.com/in/nicollascarreira](https://linkedin.com/in/nicollascarreira/)
