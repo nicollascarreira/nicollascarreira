@@ -1,6 +1,6 @@
 # Olá, sou o Nicollas 👋
 
-Desenvolvedor back-end em formação, com foco em Java, Node.js e arquitetura
+Desenvolvedor back-end, com foco em Java, Node.js e arquitetura
 de software. Formado em Análise e Desenvolvimento de Sistemas (Unifoa) e
 concluindo pós-graduação em Arquitetura de Software (dez/2026).
 
